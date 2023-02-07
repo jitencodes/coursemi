@@ -17,10 +17,6 @@ Coursemi is a fully responsive education website, <br />Responsive for all devic
 
 <br />
 
-### Demo Screeshots
-
-![Coursemi Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
